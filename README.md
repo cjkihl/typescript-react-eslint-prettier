@@ -1,3 +1,7 @@
+# Typescript React Eslint and Prettier
+
+This is an example on how you easily can get React and Typescript to work with Eslint and Prettier.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
